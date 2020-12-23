@@ -1,4 +1,4 @@
-sudo apt-get install build-essential patch ruby ruby-dev zlib1g-dev liblzma-dev
+sudo apt-get install build-essential patch ruby ruby-dev zlib1g-dev liblzma-dev -y
 cd /opt
 sudo git clone https://github.com/wpscanteam/wpscan
 cd wpscan/
