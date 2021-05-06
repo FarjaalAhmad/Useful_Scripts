@@ -4,5 +4,5 @@ sudo git clone https://github.com/rapid7/metasploit-framework
 sudo chown -R $(whoami):$(whoami) metasploit-framework/
 sudo chmod -R 755 metasploit-framework/
 cd metasploit-framework/
-sudo gem install bundler
+sudo gem install bundler -v "$(grep -A 1 "BUNDLED WITH" Gemfile.lock | tail -n 1)"
 sudo bundle install
