@@ -1,4 +1,4 @@
-# The files in this folder are just to fuck the Person's System.
+# The files in this folder are just to mess the Person's System.
 
 ## Just Pick the OS and Collect it's 2 file from this DIR. 
 
