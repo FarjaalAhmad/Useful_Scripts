@@ -9,4 +9,6 @@ Here are the Some of the Useful Scripts which are automated and one-click instal
 - `ips.txt`: _list of IPs_
 - `ssh_ports.txt`: _list of ports_
 
+<hr>
+
 ### P.S.: I created these for myself :3 but you can use these for yourself :)
