@@ -3,7 +3,7 @@
 set -euo pipefail
 
 usernames=$(< ssh_usernames.txt)
-ips=$(< inventory.txt)
+ips=$(< ips.txt)
 ports=$(< ssh_ports.txt)
 
 SSH_TIMEOUT=3
